@@ -1,0 +1,14 @@
+Here's your updated M3U playlist with the new video and subtitle URLs:
+
+```
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",URI="https://cca.megafiles.store/25/fa/25facaa955b601a0eaba00ac838db1b1/eng-2.vtt"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://tralvoxmoon.xyz/file2/620jcDsH1AgYqsBfX9I++Q570Jo2OYVIp0zDZDaiW4SM5ptDF5BC7b2BQO~AfcP31CC4cong5TH6yaXnWdYeXG4+Evwb2WKD3R9~4Eb7C+x4BL8CUQ7mL1Z+a7TzeOa3QtCeqaX0aR4fQNV0RA1r~vkABGBq4a8Nf2BKaP8VruA=/cGxheWxpc3QubTN1OA==.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1800000,RESOLUTION=1280x720
+https://tralvoxmoon.xyz/file2/620jcDsH1AgYqsBfX9I++Q570Jo2OYVIp0zDZDaiW4SM5ptDF5BC7b2BQO~AfcP31CC4cong5TH6yaXnWdYeXG4+Evwb2WKD3R9~4Eb7C+x4BL8CUQ7mL1Z+a7TzeOa3QtCeqaX0aR4fQNV0RA1r~vkABGBq4a8Nf2BKaP8VruA=/cGxheWxpc3QubTN1OA==.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=720000,RESOLUTION=640x360
+https://tralvoxmoon.xyz/file2/620jcDsH1AgYqsBfX9I++Q570Jo2OYVIp0zDZDaiW4SM5ptDF5BC7b2BQO~AfcP31CC4cong5TH6yaXnWdYeXG4+Evwb2WKD3R9~4Eb7C+x4BL8CUQ7mL1Z+a7TzeOa3QtCeqaX0aR4fQNV0RA1r~vkABGBq4a8Nf2BKaP8VruA=/cGxheWxpc3QubTN1OA==.m3u8
+```
+
+Now the video streams and subtitle URL are updated as per your request. Let me know if you need further adjustments!
