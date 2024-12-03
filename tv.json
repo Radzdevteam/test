@@ -8,7 +8,25 @@
         "tmdb_id": "124364",
         "unique_id": "from-tt9813792",
         "release_year": "2022",
-        "release_date": "2022-02-20"
+        "release_date": "2022-02-20",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 10
+            },
+            {
+                "season_number": 2,
+                "episode_count": 10
+            },
+            {
+                "season_number": 3,
+                "episode_count": 10
+            },
+            {
+                "season_number": 4,
+                "episode_count": 1
+            }
+        ]
     },
     {
         "id": "tt2177461",
@@ -19,7 +37,25 @@
         "tmdb_id": "77236",
         "unique_id": "a-discovery-of-witches-tt2177461",
         "release_year": "2018",
-        "release_date": "2019-04-07"
+        "release_date": "2019-04-07",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 4
+            },
+            {
+                "season_number": 1,
+                "episode_count": 8
+            },
+            {
+                "season_number": 2,
+                "episode_count": 10
+            },
+            {
+                "season_number": 3,
+                "episode_count": 7
+            }
+        ]
     },
     {
         "id": "tt7978710",
@@ -30,7 +66,21 @@
         "tmdb_id": "78204",
         "unique_id": "sword-art-online-alternative-gun-gale-online-tt7978710",
         "release_year": "2018",
-        "release_date": "2018-04-08"
+        "release_date": "2018-04-08",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 2
+            },
+            {
+                "season_number": 1,
+                "episode_count": 12
+            },
+            {
+                "season_number": 2,
+                "episode_count": 12
+            }
+        ]
     },
     {
         "id": "tt2250192",
@@ -41,7 +91,29 @@
         "tmdb_id": "45782",
         "unique_id": "sword-art-online-tt2250192",
         "release_year": "2012",
-        "release_date": "2012-07-08"
+        "release_date": "2012-07-08",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 25
+            },
+            {
+                "season_number": 1,
+                "episode_count": 25
+            },
+            {
+                "season_number": 2,
+                "episode_count": 24
+            },
+            {
+                "season_number": 3,
+                "episode_count": 24
+            },
+            {
+                "season_number": 4,
+                "episode_count": 23
+            }
+        ]
     },
     {
         "id": "tt0421357",
@@ -52,7 +124,17 @@
         "tmdb_id": "37863",
         "unique_id": "fullmetal-alchemist-tt0421357",
         "release_year": "2003",
-        "release_date": "2004-11-06"
+        "release_date": "2004-11-06",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 7
+            },
+            {
+                "season_number": 1,
+                "episode_count": 51
+            }
+        ]
     },
     {
         "id": "tt3107288",
@@ -63,7 +145,49 @@
         "tmdb_id": "60735",
         "unique_id": "the-flash-tt3107288",
         "release_year": "2014",
-        "release_date": "2014-10-07"
+        "release_date": "2014-10-07",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 68
+            },
+            {
+                "season_number": 1,
+                "episode_count": 23
+            },
+            {
+                "season_number": 2,
+                "episode_count": 23
+            },
+            {
+                "season_number": 3,
+                "episode_count": 23
+            },
+            {
+                "season_number": 4,
+                "episode_count": 23
+            },
+            {
+                "season_number": 5,
+                "episode_count": 22
+            },
+            {
+                "season_number": 6,
+                "episode_count": 19
+            },
+            {
+                "season_number": 7,
+                "episode_count": 18
+            },
+            {
+                "season_number": 8,
+                "episode_count": 20
+            },
+            {
+                "season_number": 9,
+                "episode_count": 13
+            }
+        ]
     },
     {
         "id": "tt0455275",
@@ -74,7 +198,33 @@
         "tmdb_id": "2288",
         "unique_id": "prison-break-tt0455275",
         "release_year": "2005",
-        "release_date": "2005-08-29"
+        "release_date": "2005-08-29",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 10
+            },
+            {
+                "season_number": 1,
+                "episode_count": 22
+            },
+            {
+                "season_number": 2,
+                "episode_count": 22
+            },
+            {
+                "season_number": 3,
+                "episode_count": 13
+            },
+            {
+                "season_number": 4,
+                "episode_count": 22
+            },
+            {
+                "season_number": 5,
+                "episode_count": 9
+            }
+        ]
     },
     {
         "id": "tt6468322",
@@ -85,7 +235,25 @@
         "tmdb_id": "71446",
         "unique_id": "money-heist-tt6468322",
         "release_year": "2017",
-        "release_date": "2017-05-02"
+        "release_date": "2017-05-02",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 22
+            },
+            {
+                "season_number": 1,
+                "episode_count": 15
+            },
+            {
+                "season_number": 2,
+                "episode_count": 16
+            },
+            {
+                "season_number": 3,
+                "episode_count": 10
+            }
+        ]
     },
     {
         "id": "tt13696452",
@@ -96,7 +264,13 @@
         "tmdb_id": "112836",
         "unique_id": "money-heist-korea-joint-economic-area-tt13696452",
         "release_year": "2022",
-        "release_date": "2022-06-24"
+        "release_date": "2022-06-24",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 12
+            }
+        ]
     },
     {
         "id": "tt15384346",
@@ -107,7 +281,13 @@
         "tmdb_id": "132719",
         "unique_id": "money-heist-from-tokyo-to-berlin-tt15384346",
         "release_year": "2021",
-        "release_date": "2021-09-03"
+        "release_date": "2021-09-03",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 2
+            }
+        ]
     },
     {
         "id": "tt10919420",
@@ -118,7 +298,17 @@
         "tmdb_id": "93405",
         "unique_id": "squid-game-tt10919420",
         "release_year": "2021",
-        "release_date": "2021-09-17"
+        "release_date": "2021-09-17",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 9
+            },
+            {
+                "season_number": 2,
+                "episode_count": 8
+            }
+        ]
     },
     {
         "id": "tt11737520",
@@ -129,7 +319,17 @@
         "tmdb_id": "111110",
         "unique_id": "one-piece-tt11737520",
         "release_year": "2023",
-        "release_date": "2023-08-31"
+        "release_date": "2023-08-31",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 8
+            },
+            {
+                "season_number": 2,
+                "episode_count": 1
+            }
+        ]
     },
     {
         "id": "tt31381986",
@@ -142,7 +342,13 @@
         "youtube_id": "PLy3Eoc63OXrzpnVNyITur6r_YBV4F-GyM",
         "youtube": true,
         "release_year": "2024",
-        "release_date": "2024-07-26"
+        "release_date": "2024-07-26",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 100
+            }
+        ]
     },
     {
         "id": "tt32537273",
@@ -155,7 +361,13 @@
         "youtube_id": "PLPcB0_P-Zlj5J-aTIIVNZ5sUj3YC9bRgr",
         "youtube": true,
         "release_year": "2024",
-        "release_date": "2024-09-02"
+        "release_date": "2024-09-02",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 100
+            }
+        ]
     },
     {
         "id": "tt31122777",
@@ -166,7 +378,13 @@
         "tmdb_id": "245256",
         "unique_id": "say-nothing-tt31122777",
         "release_year": "2024",
-        "release_date": "2024-11-14"
+        "release_date": "2024-11-14",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 9
+            }
+        ]
     },
     {
         "id": "tt15286302",
@@ -177,7 +395,13 @@
         "tmdb_id": "131835",
         "unique_id": "nautilus-tt15286302",
         "release_year": "2024",
-        "release_date": "2024-10-25"
+        "release_date": "2024-10-25",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 10
+            }
+        ]
     },
     {
         "id": "tt9018736",
@@ -188,7 +412,17 @@
         "tmdb_id": "82452",
         "unique_id": "avatar-the-last-airbender-tt9018736",
         "release_year": "2024",
-        "release_date": "2024-02-22"
+        "release_date": "2024-02-22",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 8
+            },
+            {
+                "season_number": 2,
+                "episode_count": 0
+            }
+        ]
     },
     {
         "id": "tt7235466",
@@ -199,7 +433,41 @@
         "tmdb_id": "75219",
         "unique_id": "9-1-1-tt7235466",
         "release_year": "2018",
-        "release_date": "2018-01-03"
+        "release_date": "2018-01-03",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 10
+            },
+            {
+                "season_number": 2,
+                "episode_count": 18
+            },
+            {
+                "season_number": 3,
+                "episode_count": 18
+            },
+            {
+                "season_number": 4,
+                "episode_count": 14
+            },
+            {
+                "season_number": 5,
+                "episode_count": 18
+            },
+            {
+                "season_number": 6,
+                "episode_count": 18
+            },
+            {
+                "season_number": 7,
+                "episode_count": 10
+            },
+            {
+                "season_number": 8,
+                "episode_count": 9
+            }
+        ]
     },
     {
         "id": "tt3514324",
@@ -210,7 +478,25 @@
         "tmdb_id": "60797",
         "unique_id": "scorpion-tt3514324",
         "release_year": "2014",
-        "release_date": "2014-09-22"
+        "release_date": "2014-09-22",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 22
+            },
+            {
+                "season_number": 2,
+                "episode_count": 24
+            },
+            {
+                "season_number": 3,
+                "episode_count": 25
+            },
+            {
+                "season_number": 4,
+                "episode_count": 22
+            }
+        ]
     },
     {
         "id": "tt2364582",
@@ -221,7 +507,41 @@
         "tmdb_id": "1403",
         "unique_id": "marvel-s-agents-of-s-h-i-e-l-d-tt2364582",
         "release_year": "2013",
-        "release_date": "2013-09-24"
+        "release_date": "2013-09-24",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 11
+            },
+            {
+                "season_number": 1,
+                "episode_count": 22
+            },
+            {
+                "season_number": 2,
+                "episode_count": 22
+            },
+            {
+                "season_number": 3,
+                "episode_count": 22
+            },
+            {
+                "season_number": 4,
+                "episode_count": 22
+            },
+            {
+                "season_number": 5,
+                "episode_count": 22
+            },
+            {
+                "season_number": 6,
+                "episode_count": 13
+            },
+            {
+                "season_number": 7,
+                "episode_count": 13
+            }
+        ]
     },
     {
         "id": "tt2942228",
@@ -231,7 +551,33 @@
         "genres": "Comedy, Animation, Drama",
         "tmdb_id": "61441",
         "unique_id": "yowamushi-pedal-tt2942228",
-        "release_date": "2013-10-07"
+        "release_date": "2013-10-07",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 8
+            },
+            {
+                "season_number": 1,
+                "episode_count": 38
+            },
+            {
+                "season_number": 2,
+                "episode_count": 24
+            },
+            {
+                "season_number": 3,
+                "episode_count": 25
+            },
+            {
+                "season_number": 4,
+                "episode_count": 25
+            },
+            {
+                "season_number": 5,
+                "episode_count": 25
+            }
+        ]
     },
     {
         "id": "tt1869454",
@@ -243,7 +589,17 @@
         "unique_id": "good-omens-tt1869454",
         "imdbID": "tt1869454",
         "release_year": "2019",
-        "release_date": "2019-05-31"
+        "release_date": "2019-05-31",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 6
+            },
+            {
+                "season_number": 2,
+                "episode_count": 6
+            }
+        ]
     },
     {
         "id": "tt4532368",
@@ -254,7 +610,41 @@
         "unique_id": "dcslegendsoftomorrow-tt4532368",
         "tmdb_id": "62643",
         "release_year": "2016",
-        "release_date": "2016-01-21"
+        "release_date": "2016-01-21",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 29
+            },
+            {
+                "season_number": 1,
+                "episode_count": 16
+            },
+            {
+                "season_number": 2,
+                "episode_count": 17
+            },
+            {
+                "season_number": 3,
+                "episode_count": 18
+            },
+            {
+                "season_number": 4,
+                "episode_count": 16
+            },
+            {
+                "season_number": 5,
+                "episode_count": 15
+            },
+            {
+                "season_number": 6,
+                "episode_count": 15
+            },
+            {
+                "season_number": 7,
+                "episode_count": 13
+            }
+        ]
     },
     {
         "id": "tt0279600",
@@ -265,7 +655,53 @@
         "unique_id": "smallville-tt0279600",
         "tmdb_id": "4604",
         "release_year": "2001",
-        "release_date": "2001-10-16"
+        "release_date": "2001-10-16",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 38
+            },
+            {
+                "season_number": 1,
+                "episode_count": 21
+            },
+            {
+                "season_number": 2,
+                "episode_count": 23
+            },
+            {
+                "season_number": 3,
+                "episode_count": 22
+            },
+            {
+                "season_number": 4,
+                "episode_count": 22
+            },
+            {
+                "season_number": 5,
+                "episode_count": 22
+            },
+            {
+                "season_number": 6,
+                "episode_count": 22
+            },
+            {
+                "season_number": 7,
+                "episode_count": 20
+            },
+            {
+                "season_number": 8,
+                "episode_count": 22
+            },
+            {
+                "season_number": 9,
+                "episode_count": 21
+            },
+            {
+                "season_number": 10,
+                "episode_count": 21
+            }
+        ]
     },
     {
         "id": "tt13273826",
@@ -276,7 +712,21 @@
         "unique_id": "theuncannycounter-tt13273826",
         "tmdb_id": "113268",
         "release_year": "2020",
-        "release_date": "2020-11-28"
+        "release_date": "2020-11-28",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 2
+            },
+            {
+                "season_number": 1,
+                "episode_count": 16
+            },
+            {
+                "season_number": 2,
+                "episode_count": 12
+            }
+        ]
     },
     {
         "id": "tt31158589",
@@ -287,7 +737,13 @@
         "unique_id": "dontcomehome-tt5086198",
         "tmdb_id": "273081",
         "release_year": "2016",
-        "release_date": "2024-10-31"
+        "release_date": "2024-10-31",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 6
+            }
+        ]
     },
     {
         "id": "tt2402207",
@@ -298,7 +754,33 @@
         "unique_id": "thelastship-tt2402207",
         "tmdb_id": "60802",
         "release_year": "2014\u20132018",
-        "release_date": "2014-06-22"
+        "release_date": "2014-06-22",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 6
+            },
+            {
+                "season_number": 1,
+                "episode_count": 10
+            },
+            {
+                "season_number": 2,
+                "episode_count": 13
+            },
+            {
+                "season_number": 3,
+                "episode_count": 13
+            },
+            {
+                "season_number": 4,
+                "episode_count": 10
+            },
+            {
+                "season_number": 5,
+                "episode_count": 10
+            }
+        ]
     },
     {
         "id": "tt20600980",
@@ -309,7 +791,13 @@
         "unique_id": "starwarsskeletoncrew-tt20600980",
         "tmdb_id": "202879",
         "release_year": "2024",
-        "release_date": "2024-12-02"
+        "release_date": "2024-12-02",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 8
+            }
+        ]
     },
     {
         "id": "tt2861424",
@@ -320,7 +808,45 @@
         "unique_id": "rickandmorty-tt2861424",
         "tmdb_id": "60625",
         "release_year": "2013\u2013",
-        "release_date": "2013-12-02"
+        "release_date": "2013-12-02",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 35
+            },
+            {
+                "season_number": 1,
+                "episode_count": 11
+            },
+            {
+                "season_number": 2,
+                "episode_count": 10
+            },
+            {
+                "season_number": 3,
+                "episode_count": 10
+            },
+            {
+                "season_number": 4,
+                "episode_count": 10
+            },
+            {
+                "season_number": 5,
+                "episode_count": 10
+            },
+            {
+                "season_number": 6,
+                "episode_count": 10
+            },
+            {
+                "season_number": 7,
+                "episode_count": 10
+            },
+            {
+                "season_number": 8,
+                "episode_count": 0
+            }
+        ]
     },
     {
         "id": "tt28466465",
@@ -331,10 +857,16 @@
         "unique_id": "rickandmortytheanime-tt28466465",
         "tmdb_id": "202282",
         "release_year": "2024\u2013",
-        "release_date": "2024-08-15"
+        "release_date": "2024-08-15",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 10
+            }
+        ]
     },
     {
-        "id": "tt20859920",
+        "id": "1119518",
         "title": "Alchemy of Souls",
         "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
         "poster": "https:\/\/image.tmdb.org\/t\/p\/w500\/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
@@ -342,7 +874,21 @@
         "unique_id": "alchemyofsouls-tt20859920",
         "tmdb_id": "135157",
         "release_year": "2022\u2013",
-        "release_date": "2022-06-18"
+        "release_date": "2022-06-18",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 2
+            },
+            {
+                "season_number": 1,
+                "episode_count": 20
+            },
+            {
+                "season_number": 2,
+                "episode_count": 10
+            }
+        ]
     },
     {
         "id": "tt0877057",
@@ -353,7 +899,13 @@
         "unique_id": "deathnote-tt0877057",
         "tmdb_id": "13916",
         "release_year": "2006\u20132007",
-        "release_date": "2007-10-21"
+        "release_date": "2007-10-21",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 37
+            }
+        ]
     },
     {
         "id": "tt0877057",
@@ -364,7 +916,13 @@
         "unique_id": "deathnote-tt0877057",
         "tmdb_id": "63648",
         "release_year": "2006\u20132007",
-        "release_date": "2007-10-21"
+        "release_date": "2007-10-21",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 11
+            }
+        ]
     },
     {
         "id": "tt6332396",
@@ -375,7 +933,13 @@
         "unique_id": "deathnotenewgeneration-tt6332396",
         "tmdb_id": "78004",
         "release_year": "2016",
-        "release_date": "2016-09-16"
+        "release_date": "2016-09-16",
+        "seasons": [
+            {
+                "season_number": 1,
+                "episode_count": 3
+            }
+        ]
     },
     {
         "id": "tt0965547",
@@ -386,7 +950,17 @@
         "unique_id": "slamdunk-tt0965547",
         "tmdb_id": "42573",
         "release_year": "1993\u20131996",
-        "release_date": "1993-10-23"
+        "release_date": "1993-10-23",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 6
+            },
+            {
+                "season_number": 1,
+                "episode_count": 101
+            }
+        ]
     },
     {
         "id": "tt5626028",
@@ -397,6 +971,44 @@
         "unique_id": "myheroacademia-tt5626028",
         "tmdb_id": "65930",
         "release_year": "2016\u2013",
-        "release_date": "2018-05-05"
+        "release_date": "2018-05-05",
+        "seasons": [
+            {
+                "season_number": 0,
+                "episode_count": 12
+            },
+            {
+                "season_number": 1,
+                "episode_count": 13
+            },
+            {
+                "season_number": 2,
+                "episode_count": 25
+            },
+            {
+                "season_number": 3,
+                "episode_count": 25
+            },
+            {
+                "season_number": 4,
+                "episode_count": 25
+            },
+            {
+                "season_number": 5,
+                "episode_count": 25
+            },
+            {
+                "season_number": 6,
+                "episode_count": 25
+            },
+            {
+                "season_number": 7,
+                "episode_count": 21
+            },
+            {
+                "season_number": 8,
+                "episode_count": 2
+            }
+        ]
     }
 ]
