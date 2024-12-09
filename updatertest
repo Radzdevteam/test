@@ -1,1 +1,7 @@
-
+{
+  "latestVersion": "2.0.1",
+  "url": "https://github.com/linkedin/apk-bitminer/raw/refs/heads/master/apk_bitminer/test/resources/test.apk",
+  "releaseNotes": [
+    "- Bug fixes"
+  ]
+}
