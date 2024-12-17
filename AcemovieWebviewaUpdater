@@ -1,7 +1,9 @@
 {
-  "latestVersion": "2.0.1",
-  "url": "https://github.com/Radzdevteam/test/raw/refs/heads/main/strmapp.apk",
-  "releaseNotes": [
-      "Improved app performance.", "Bug fixes and minor UI updates.", "Added new features for better usability."
-  ]
+    "latestVersion": "2.0.0",
+    "url": "https://github.com/Radzdevteam/test/raw/refs/heads/main/strmapp.apk",
+    "releaseNotes": [
+        "Improved app performance.",
+        "Bug fixes and minor UI updates.",
+        "Added new features for better usability."
+    ]
 }
