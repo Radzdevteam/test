@@ -1,14 +1,16 @@
-"movies": {
-  "453434": {
-    "title": "Amazing Movie",
-    "stream": "https://vidlink.pro/movie/1241982"
-  },
-  "123456": {
-    "title": "Another Cool Movie",
-    "stream": "https://vidlink.pro/movie/123456"
-  },
-  "234564": {
-    "title": "Yet Another Movie",
-    "stream": "https://vidlink.pro/movie/234564"
+{
+  "movies": {
+    "453434": {
+      "title": "ok Movie",
+      "stream": "https://vidlink.pro/movie/1241982"
+    },
+    "123456": {
+      "title": "Another Cool Movie",
+      "stream": "https://vidlink.pro/movie/123456"
+    },
+    "234564": {
+      "title": "Yet Another Movie",
+      "stream": "https://vidlink.pro/movie/234564"
+    }
   }
 }
