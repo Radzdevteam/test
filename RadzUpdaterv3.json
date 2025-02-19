@@ -2,12 +2,12 @@
   "latestVersion": "1.2.0",
   "url": "https://github.com/Radzdevteam/test/raw/refs/heads/main/test.apk",
   "releaseNotes": [
-    "🚀 Performance optimizations for a smoother experience",
-    "🐞 Fixed minor bugs and improved overall stability",
-    "🎨 Updated UI elements for better usability",
-    "🔍 Enhanced search functionality with faster results",
-    "📂 Improved file handling for better efficiency",
-    "🔔 Added new notifications to keep you updated",
-    "🛠 Various under-the-hood improvements for reliability"
+    "✓ Performance boosts",
+    "✓ Bug fixes & stability",
+    "✓ UI improvements",
+    "✓ Faster search",
+    "✓ Better file handling",
+    "✓ New notifications",
+    "✓ Various optimizations"
   ]
 }
