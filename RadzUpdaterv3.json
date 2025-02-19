@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.2.0",
+  "url": "https://example.com/path-to-latest-apk.apk",
+  "releaseNotes": [
+    "Improved performance and stability",
+    "Fixed minor bugs",
+    "Added new feature: Dark Mode"
+  ]
+}
